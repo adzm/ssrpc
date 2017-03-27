@@ -13,7 +13,7 @@ Usage
 Download
 -----
 
-[v1.0.0](https://github.com/adzm/ssrpc/releases/tag/v1.0.0) for all versions of Windows. No dependencies; no installation needed. Place in %PATH% if desired.
+[Latest release](https://github.com/adzm/ssrpc/releases/latest) for all versions of Windows. No dependencies; no installation needed. Place in %PATH% if desired.
 
 Details
 -------
