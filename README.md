@@ -5,8 +5,15 @@ Find Microsoft SQL Server instances via hostname or broadcast using SQL Browser
 Usage
 -----
 
+`ssrpc [hostname|ip]`
+
 - `ssrpc` will enumerate network interfaces and broadcast over (ipv4) udp
 - `ssrpc hostname` will resolve hostname and send the request over udp via ipv4 or ipv6
+
+Download
+-----
+
+[v1.0.0](https://github.com/adzm/ssrpc/releases/tag/v1.0.0) for all versions of Windows. No dependencies; no installation needed. Place in %PATH% if desired.
 
 Details
 -------
